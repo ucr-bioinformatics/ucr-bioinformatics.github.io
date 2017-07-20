@@ -15,16 +15,16 @@ company_name: University of California, Riverside
 github_editme_path: ucr-bioinformatics/documentation-theme-jekyll/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-disqus_shortname: idrbwjekyll
+disqus_shortname:
 # if you're using disqus for comments, add the shortname here. if not, leave this value blank.
 
-google_analytics: UA-00000000-0
+google_analytics:
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
 host: 127.0.0.1
 # the preview server used. Leave as is.
 
-port: 4000
+port:
 # the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
 
 exclude:
@@ -32,9 +32,9 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Jekyll documentation theme
+feedback_subject_line: Bioinformatics UCR website
 
-feedback_email: tomjohnson1492@gmail.com
+feedback_email: nkatiyar@ucr.edu
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -104,8 +104,8 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Intended as a documentation theme based on Jekyll for technical writers documenting software and other technical products, this theme has all the elements you would need to handle multiple products with both multi-level sidebar navigation, tags, and other documentation features."
+description: "UCR Bioinformatics core facility website."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: http://idratherbewriting.com
+url: http://bioinformatics-core-facility.com
