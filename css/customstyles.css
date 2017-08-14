@@ -1203,3 +1203,18 @@ h4.panel-title {
         display:block !important;
     }
 }
+
+.sidebarTitle {
+    color: white !important;
+    height: 175px;
+    width: 100%;
+    background-image: url(/images/bioinfo-logo.jpg);
+    background-size: 250px 175px;
+}
+
+.sidebarTitleText {
+    display: block;
+    bottom: 10px;
+    padding-left: 10px;
+    position: absolute;
+}
