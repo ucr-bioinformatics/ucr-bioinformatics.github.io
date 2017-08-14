@@ -11,7 +11,6 @@ site_title: Bioinformatics Facility
 company_name: Bioinformatics Facility at UCR
 # this appears in the footer
 
-github_editme_path: ucr-bioinformatics/ucr-bioinformatics.github.io
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname:
