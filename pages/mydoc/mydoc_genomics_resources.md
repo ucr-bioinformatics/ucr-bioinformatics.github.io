@@ -14,13 +14,18 @@ List of useful tools and websites for genomics research.
 
 ### Tools
 https://omictools.com/
+
 http://www.ebi.ac.uk/Tools/emboss/
+
 https://www.ncbi.nlm.nih.gov/home/analyze/
+
 http://ngsutils.org/
 
 ### Visualization
 https://usegalaxy.org/
+
 https://genome.ucsc.edu/
+
 http://software.broadinstitute.org/software/igv/
 
 ### Questions
@@ -62,23 +67,6 @@ Best Practices for De Novo Transcriptome Assembly with Trinity (http://informati
 3 RECOMB: International Conference on Research in Computational Molecular Biology
 
 4 Bio-IT World
-
-#### SPECIALIZED SCIENTIFIC MEETINGS
-1 Next-Generation Sequencing (CHI)
-
-2 ICSB: International Conference on Systems Biology
-
-3 MGED: International Meeting of the Microarray Gene Expression Data Society
-
-4 HUPO Annual Meeting
-
-#### TECHNOLOGY/INSTRUMENTATION MEETINGS
-1 ABRF: Association of Biomolecular Resource Facilities
-
-2 qPCR Symposium
-
-3 SBS: Society for Biomolecular Sciences Conference
-4 LabAutomation
 
 #### GENERAL GENOMICS MEETINGS
 1 Biology of Genomes (Cold Spring Harbor Laboratory)

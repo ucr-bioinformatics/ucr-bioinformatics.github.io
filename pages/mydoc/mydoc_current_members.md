@@ -1,8 +1,9 @@
 ---
 title: Current members
-tags: [getting_started, formatting, content_types]
+tags: 
 keywords: pages, authoring, exclusion, frontmatter
 last_updated: July 16, 2016
+sidebar: mydoc_sidebar
 permalink: mydoc_current_members.html
 folder: mydoc
 ---

@@ -1,6 +1,6 @@
 ---
 title: Past members
-tags: [getting_started, formatting, content_types]
+tags: 
 keywords: posts, blog, news, authoring, exclusion, frontmatter
 last_updated: Feb 25, 2016
 sidebar: mydoc_sidebar

@@ -23,15 +23,16 @@ Methyl-Seq| TBD
 
 --------|-----------|-----------
 UC Users | $23/module
-External Users | $75/module
+External Users (Domestic) | $79/module
+External Users (Commercial and Foreign) | $108.94/module
 
 ## Labor Rate for bioinformatics projects
 
 Description | Rates
 ----------- | -----
 Internal:UC Users | $52/hour
-External:Domestic Educational Rates | $110.95/hour
-External: Commercial and Foreign Educational Rates | $152.56/hour
+External:Domestic Educational Rates | $110.96/hour
+External: Commercial and Foreign Educational Rates | $154.04/hour
 
 For consulting services, please email at <a href="mailto:neerja.katiyar@ucr.edu">neerja.katiyar@ucr.edu</a>.
 
