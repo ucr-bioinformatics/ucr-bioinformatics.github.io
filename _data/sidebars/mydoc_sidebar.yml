@@ -84,12 +84,8 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Current  members
-      url: /mydoc_current_members.html
-      output: web, pdf
-
-    - title: Past members
-      url: /mydoc_past_members.html
+    - title: Members
+      url: /mydoc_members.html
       output: web, pdf
 
   - title: Resources
