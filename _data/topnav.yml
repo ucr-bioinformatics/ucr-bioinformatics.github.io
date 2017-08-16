@@ -12,27 +12,29 @@ topnav_dropdowns:
       folderitems:
         - title: UCR General
           external_url: http://www.ucr.edu/
-        - title: UCR at your service
-          external_url: https://atyourserviceonline.ucop.edu/ayso/
-        - title: Book Seminar Room
-          external_url: https://chassintranet.ucr.edu/frs/index.do
-        - title: Travel
-          external_url: http://cnc.ucr.edu/travel/
-        - title: Software Site Licensing
-          external_url: http://sitelicense.ucr.edu/
-    
-    - title: Related websites
-      folderitems:
-        - title: UCR Sequencing website
-          external_url: http://illumina.bioinfo.ucr.edu/ht/
-        - title: HPCC
-          external_url: http://hpcc.ucr.edu/index.html
         - title: Institute of Integrative Genomics Biology
           external_url: http://genomics.ucr.edu/
         - title: Center for Plant Cell Biology
           external_url: http://cepceb.ucr.edu/
         - title: Center for Botany and Plant Sciences
           external_url: http://plantbiology.ucr.edu/
+        - title: UCR at your service
+          external_url: https://atyourserviceonline.ucop.edu/ayso/
+        - title: Book Seminar Room
+          external_url: https://chassintranet.ucr.edu/frs/index.do
+        - title: Travel
+          external_url: http://cnc.ucr.edu/travel/
+    
+    - title: Related websites
+      folderitems:
+        - title: UCR Sequencing website
+          external_url: http://illumina.bioinfo.ucr.edu/ht/
+        - title: Data Analysis
+          external_url: http://illumina.bioinfo.ucr.edu/ht/documentation/analysis
+        - title: HPCC
+          external_url: http://hpcc.ucr.edu/index.html
+        - title: Software Site Licensing
+          external_url: http://sitelicense.ucr.edu/
         - title: FIELDS
           external_url: http://bigdata.ucr.edu/
         - title: GitHub
