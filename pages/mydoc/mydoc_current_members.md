@@ -6,6 +6,7 @@ last_updated: July 16, 2016
 sidebar: mydoc_sidebar
 permalink: mydoc_current_members.html
 folder: mydoc
+toc: false
 ---
 
 ## Program director

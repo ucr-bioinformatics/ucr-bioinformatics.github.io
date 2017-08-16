@@ -8,27 +8,10 @@ permalink: mydoc_past_members.html
 folder: mydoc
 ---
 
-Jordan Hayes, Systems Administrator
-
-Email : jordan.hayes@ucr.edu
-
-Rakesh Kaundal, Director, Bioinformatics
-
-Email : rakesh.kaundal@ucr.edu
-
-Kenny Luu, Bioinformatics Analyst Assistant
-
-Email : kluu006@ucr.edu
-
-Thomas Girke, Director, Bioinformatics
-
-Email : thomas.girke@ucr.edu
-
-Rebecca Sun, Bioinformatics Analyst
-
-Email : fireflysrb@gmail.com
-
-Tyler Landrith, Bioinformatics Analyst
-
-Email : tbackman@lbl.gov
+- [Jordan Hayes](mailto:jordan.hayes@ucr.edu), Systems Administrator
+- [Rakesh Kaundal](mailto:rakesh.kaundal@ucr.edu), Director, Bioinformatics
+- [Kenny Luu](kluu006@ucr.edu), Bioinformatics Analyst Assistant
+- [Thomas Girke](thomas.girke@ucr.edu), Director, Bioinformatics
+- [Rebecca Sun](fireflysrb@gmail.com), Bioinformatics Analyst
+- [Tyler Landrith](tbackman@lbl.gov), Bioinformatics Analyst
 
