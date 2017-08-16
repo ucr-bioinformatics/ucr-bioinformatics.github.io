@@ -6,6 +6,7 @@ published: true
 sidebar: mydoc_sidebar
 permalink: mydoc_upcoming_workshops.html
 folder: mydoc
+wide: true
 ---
 
 The bioinformatics core facility provides hands-on training workshops for the graduate students, postdocs, research scholars and faculty members.
