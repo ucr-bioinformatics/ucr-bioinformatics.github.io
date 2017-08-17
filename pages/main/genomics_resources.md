@@ -1,13 +1,10 @@
 ---
 title: Services
-tags:
-  - getting_started
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
 last_updated: "August 8, 2017"
 published: true
 sidebar: mydoc_sidebar
-permalink: mydoc_genomics_resources.html
-folder: mydoc
+permalink: genomics_resources.html
 ---
 
 List of useful tools and websites for genomics research.

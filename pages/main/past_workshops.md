@@ -6,8 +6,7 @@ keywords: "features, capabilities, scalability, multichannel output, dita, hats,
 last_updated: "July 20, 2017"
 published: true
 sidebar: mydoc_sidebar
-permalink: mydoc_past_workshops.html
-folder: mydoc
+permalink: past_workshops.html
 wide: true
 ---
 

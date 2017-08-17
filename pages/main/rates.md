@@ -3,10 +3,8 @@ title: Rates
 tags:
 keywords: questions, troubleshooting, contact, support
 last_updated: August 13, 2017
-summary: "Bioinformatics Service Rates."
 sidebar: mydoc_sidebar
-permalink: mydoc_rates.html
-folder: mydoc
+permalink: rates.html
 topnav: topnav
 ---
 

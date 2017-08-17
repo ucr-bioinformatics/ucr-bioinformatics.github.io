@@ -23,16 +23,16 @@ entries:
     folderitems:
 
     - title: Bioinformatics Facility
-      url: /mydoc_introduction.html
+      url: /introduction.html
       output: web, pdf
       type: homepage
 
     - title: Services
-      url: /mydoc_services.html
+      url: /services.html
       output: web, pdf
 
     - title: Rates
-      url: /mydoc_rates.html
+      url: /rates.html
       output: web, pdf
 
   - title: Workshops
@@ -40,11 +40,11 @@ entries:
     folderitems:
 
     - title: Upcoming workshops
-      url: /mydoc_upcoming_workshops.html
+      url: /upcoming_workshops.html
       output: web, pdf
 
     - title: Past workshops
-      url: /mydoc_past_workshops.html
+      url: /past_workshops.html
       output: web, pdf
 
   - title: Manuals
@@ -85,7 +85,7 @@ entries:
 
     folderitems:
     - title: Members
-      url: /mydoc_members.html
+      url: /members.html
       output: web, pdf
 
   - title: Resources
@@ -93,10 +93,10 @@ entries:
 
     folderitems:
     - title: Genomics
-      url: /mydoc_genomics_resources.html
+      url: /genomics_resources.html
       output: web, pdf
 
     - title: Proteomics
-      url: /mydoc_proteomics_resources.html
+      url: /proteomics_resources.html
       output: web, pdf
 
