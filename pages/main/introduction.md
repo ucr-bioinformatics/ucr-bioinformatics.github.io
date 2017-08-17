@@ -1,5 +1,4 @@
 ---
-title: Introduction
 sidebar: mydoc_sidebar
 permalink: introduction.html
 ---
@@ -16,7 +15,7 @@ The bioinformatics facility provides access to the NGS data sequenced at UCR, da
 
 * Access to Next Generation Sequencing data, quality control reports and demultiplexing statistics at UCR for research projects.
 * Instruction of hands-on tutorials and workshops on a wide variety of bioinformatics topics. Extensive manuals for these tutorials are available on our manual page.
-* Custom data analysis and consultation services for bioinformatics projects. To schedule an appointment, please e-mail neerja.katiyar@ucr.edu.
+* Custom data analysis and consultation services for bioinformatics projects. To schedule an appointment, please e-mail [Neerja Katiyar](mailto:neerja.katiyar@ucr.edu)
 * Establishment of research collaborations with experimental scientists from different departments.
 
 

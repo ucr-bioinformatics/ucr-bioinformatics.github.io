@@ -28,6 +28,6 @@ Var-Seq| Variant calling and annotation. For details see Var-Seq
 ChIP-Seq| Peak calling and annotation. For details see ChIP-Seq
 Methyl-Seq| Methylated regions and annotation. For details see Methyl-Seq
 
-Note: Customers are expected to provide a detailed outline of the design of their experiment. (e.g. treatments, replicates, comparisons), and the download information for the appropriate reference genome sequence and annotation data required for these analyses. For questions, please Contact Us.
+Note: Customers are expected to provide a detailed outline of the design of their experiment. (e.g. treatments, replicates, comparisons), and the download information for the appropriate reference genome sequence and annotation data required for these analyses. For questions, please contact [Neerja Katiyar](mailto:neerja.katiyar@ucr.edu)
 
 {% include links.html %}
