@@ -5,6 +5,7 @@ keywords: pages, authoring, exclusion, frontmatter
 last_updated: July 16, 2016
 sidebar: mydoc_sidebar
 permalink: members.html
+wide: true
 toc: false
 ---
 

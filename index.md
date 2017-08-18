@@ -3,9 +3,10 @@ title: Introduction
 sidebar: mydoc_sidebar
 permalink: index.html
 folder: mydoc
+wide: true
 ---
 
-## Overview
+## Bioinformatics Facility
 
 Welcome to the Bioinformatics Facility.
 

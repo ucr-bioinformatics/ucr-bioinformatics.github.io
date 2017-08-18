@@ -1,9 +1,10 @@
 ---
 sidebar: mydoc_sidebar
 permalink: introduction.html
+wide: true
 ---
 
-## Overview
+## Bioinformatics Facility
 
 Welcome to the Bioinformatics Facility.
 

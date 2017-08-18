@@ -5,6 +5,7 @@ keywords: questions, troubleshooting, contact, support
 last_updated: August 13, 2017
 sidebar: mydoc_sidebar
 permalink: rates.html
+wide: true
 topnav: topnav
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Genomics Resources
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
 last_updated: "August 8, 2017"
 published: true

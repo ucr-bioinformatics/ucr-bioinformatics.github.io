@@ -1,5 +1,5 @@
 body {
-    font-size:15px;
+    font-size:18px;
 }
 
 .bs-callout {
@@ -96,7 +96,7 @@ margin-top: -40px
 }
 
 .pageSummary {
-    font-size:13px;
+    font-size:14px;
     display:block;
     margin-bottom:15px;
     padding-left:20px;
@@ -301,7 +301,7 @@ footer {
 
 /* FAQ page */
 #accordion .panel-heading {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 a.accordion-toggle, a.accordion-collapsed {

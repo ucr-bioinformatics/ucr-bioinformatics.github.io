@@ -6,6 +6,7 @@ last_updated: "August 17, 2017"
 published: true
 sidebar: mydoc_sidebar
 permalink: R_basics.html
+wide: true
 toc: false
 ---
 

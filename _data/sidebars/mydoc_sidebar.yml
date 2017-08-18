@@ -27,6 +27,10 @@ entries:
       output: web, pdf
       type: homepage
 
+  - title: Services
+    output: web, pdf
+
+    folderitems:
     - title: Services
       url: /services.html
       output: web, pdf
@@ -47,7 +51,7 @@ entries:
       url: /past_workshops.html
       output: web, pdf
 
-  - title: Tutorials
+  - title: Manuals
     output: web, pdf
     folderitems:
 

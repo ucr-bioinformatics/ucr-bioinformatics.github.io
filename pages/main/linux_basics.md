@@ -6,6 +6,7 @@ last_updated: "July 20, 2017"
 published: true
 sidebar: mydoc_sidebar
 permalink: linux_basics.html
+wide: true
 toc: false
 ---
 
