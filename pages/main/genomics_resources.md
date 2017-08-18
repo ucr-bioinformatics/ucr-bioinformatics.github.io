@@ -45,7 +45,7 @@ Best practices for whole-genome de novo sequencing with long-read SMRT Sequencin
 
 Best Practices for De Novo Transcriptome Assembly with Trinity (http://informatics.fas.harvard.edu/best-practices-for-de-novo-transcriptome-assembly-with-trinity.html)
 
-### Most recommended conferences
+### Conferences
 #### LARGE BIOMEDICAL/SCIENTIFIC MEETINGS
 
 1 ASHG: American Society of Human Genetics
