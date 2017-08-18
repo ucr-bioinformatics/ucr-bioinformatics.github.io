@@ -71,8 +71,8 @@ entries:
     output: web, pdf
 
     folderitems:
-    - title: Members
-      url: /members.html
+    - title: Contacts
+      url: /contacts.html
       output: web, pdf
 
   - title: Resources
