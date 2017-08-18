@@ -13,6 +13,8 @@ Our facility is part of the Institute for Integrative Genome Biology (IIGB) that
 
 The bioinformatics facility provides access to the NGS data sequenced at UCR, data analysis and programming expertise. The resources serve scientists at UC Riverside to master the informatics needs of their research in a proficient and cost-effective manner. The following services are offered:
 
+![Bioinformatics Services](/images/ucr-services.jpg)
+
 ## Services
 
 * Access to Next Generation Sequencing data, quality control reports and demultiplexing statistics at UCR for research projects.

@@ -5,25 +5,12 @@ entries:
   product: Bioinformatics Facility
   folders:
 
-  - title:
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /titlepage
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage
-      output: pdf
-      type: frontmatter
-
   - title: Overview
     output: web, pdf
     folderitems:
 
     - title: Bioinformatics Facility
-      url: /introduction.html
+      url: /index.html
       output: web, pdf
       type: homepage
 
