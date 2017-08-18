@@ -82,6 +82,4 @@ Best Practices for De Novo Transcriptome Assembly with Trinity (http://informati
 3 International Mouse Genome Conference
 
 
-https://www.genomeweb.com/sites/default/files/legacy/conference%20pages%20most%20recommended.pdf
-
 {% include links.html %}
