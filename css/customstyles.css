@@ -1223,3 +1223,7 @@ nav.navbar.navbar-inverse {
     background-color: #207720;
     border-color: #207720;
 }
+
+.nav > li.active > a {
+    background-color: #207720;
+}
