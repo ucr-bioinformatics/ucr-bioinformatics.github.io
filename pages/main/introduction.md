@@ -1,10 +1,11 @@
 ---
+title: Bioinformatics Facility
 sidebar: mydoc_sidebar
 permalink: introduction.html
 wide: true
 ---
 
-## Bioinformatics Facility
+## Mission
 
 Welcome to the Bioinformatics Facility.
 

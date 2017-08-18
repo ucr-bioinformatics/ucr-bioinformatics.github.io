@@ -1,12 +1,12 @@
 ---
-title: Introduction
+title: Bioinformatics Facility
 sidebar: mydoc_sidebar
 permalink: index.html
 folder: mydoc
 wide: true
 ---
 
-## Bioinformatics Facility
+## Mission
 
 Welcome to the Bioinformatics Facility.
 
@@ -16,9 +16,9 @@ The bioinformatics facility provides access to high-performance compute resource
 
 ## Services
 
-* Access to Next Generation Sequencing data, quality control reports and demultiplexing statistics at UCR for research projects.
+* Access to Next Generation Sequencing data, quality control reports and demultiplexing statistics at UCR for research projects.[Link](http://illumina.bioinfo.ucr.edu/ht/)
 * Instruction of hands-on tutorials and workshops on a wide variety of bioinformatics topics.
-* Custom data analysis and consultation services for bioinformatics projects. To schedule an appointment, please e-mail neerja.katiyar@ucr.edu.
+* Custom data analysis and consultation services for bioinformatics projects. To schedule an appointment, please e-mail [Neerja Katiyar](mailto:neerja.katiyar@ucr.edu).
 * Establishment of research collaborations with experimental scientists from different departments.
 
 

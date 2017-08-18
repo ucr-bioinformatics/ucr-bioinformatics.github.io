@@ -67,7 +67,7 @@ entries:
       url: NGS_beginner.html
       output: web, pdf
 
-  - title: Members
+  - title: Contacts
     output: web, pdf
 
     folderitems:
