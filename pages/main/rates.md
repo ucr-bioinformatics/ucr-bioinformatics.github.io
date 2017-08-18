@@ -3,7 +3,7 @@ title: Rates
 tags:
 keywords: questions, troubleshooting, contact, support
 last_updated: August 13, 2017
-sidebar: mydoc_sidebar
+sidebar: site_sidebar
 permalink: rates.html
 wide: true
 topnav: topnav

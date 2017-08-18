@@ -3,7 +3,7 @@ title: Services
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
 last_updated: "August 8, 2017"
 published: true
-sidebar: mydoc_sidebar
+sidebar: site_sidebar
 permalink: proteomics_resources.html
 wide: true
 ---

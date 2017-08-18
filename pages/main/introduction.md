@@ -1,6 +1,6 @@
 ---
 title: Bioinformatics Facility
-sidebar: mydoc_sidebar
+sidebar: site_sidebar
 permalink: introduction.html
 wide: true
 ---

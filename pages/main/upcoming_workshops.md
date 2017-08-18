@@ -3,7 +3,7 @@ title: Upcoming Workshops
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
 last_updated: "August 4, 2017"
 published: true
-sidebar: mydoc_sidebar
+sidebar: site_sidebar
 permalink: upcoming_workshops.html
 wide: true
 ---
