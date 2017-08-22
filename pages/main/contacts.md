@@ -3,7 +3,7 @@ title: Members
 tags: 
 keywords: pages, authoring, exclusion, frontmatter
 last_updated: July 16, 2016
-sidebar: mydoc_sidebar
+sidebar: site_sidebar
 permalink: contacts.html
 wide: true
 toc: false

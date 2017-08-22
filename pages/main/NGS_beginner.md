@@ -1,6 +1,15 @@
 ---
+<<<<<<< HEAD
 title: Next Generation Sequencing
 sidebar: mydoc_sidebar
+=======
+title: NGS beginner
+tags:
+keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
+last_updated: "July 20, 2017"
+published: true
+sidebar: site_sidebar
+>>>>>>> 5b2734466c60c83e50a5a984d47f7c01da7941a3
 permalink: NGS_beginner.html
 wide: true
 ---

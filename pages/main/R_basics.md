@@ -4,7 +4,7 @@ tags:
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
 last_updated: "August 17, 2017"
 published: true
-sidebar: mydoc_sidebar
+sidebar: site_sidebar
 permalink: R_basics.html
 wide: true
 toc: false
