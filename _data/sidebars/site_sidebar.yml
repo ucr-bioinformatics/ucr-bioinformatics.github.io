@@ -162,17 +162,3 @@ entries:
     - title: Proteomics
       url: /proteomics_resources.html
       output: web, pdf
-
-
-  - title: Resources
-    output: web, pdf
-
-    folderitems:
-    - title: Genomics
-      url: /genomics_resources.html
-      output: web, pdf
-
-    - title: Proteomics
-      url: /proteomics_resources.html
-      output: web, pdf
-
