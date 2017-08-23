@@ -14,7 +14,7 @@ The bioinformatics core facility provides hands-on training workshops for the gr
 ### Bioinformatics workshop series (9 AM to Noon)
 
 | Title | Description | Tentative dates |
-| 1. Programming with R | Rstudio environment, Loops, graphics, Exercises | Sept 8, 2017 |
+| 1. Programming with R | Rstudio environment, Loops, graphics, Exercises. [Sign up here](https://goo.gl/forms/natP7w8p4KxjC8zB2) | Sept 8, 2017 |
 | 2.  Modern R graphics with ggplot2 | Exercises | Sept 22, 2017 |
 | 3.  Next Generation Sequencing for beginners | Basics of NGS, file formats, common tools, Introduction to Galaxy, Exercises | Oct 6, 2017 |
 | 4. Introduction to RNA-Seq | Overview of RNA-Seq, File formats, Methods and Tools for Data Analysis | Oct 20, 2017 |
