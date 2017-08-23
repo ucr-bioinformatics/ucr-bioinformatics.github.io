@@ -43,15 +43,15 @@ entries:
     folderitems:
 
     - title: Linux basics
-      url: linux_basics.html
+      url: /linux_basics.html
       output: web, pdf
     
     - title: R basics
-      url: R_basics.html
+      url: /R_basics.html
       output: web, pdf
 
     - title: NGS Beginner
-      url: NGS_beginner.html
+      url: /NGS_beginner.html
       output: web, pdf
 
   - title: Contacts
