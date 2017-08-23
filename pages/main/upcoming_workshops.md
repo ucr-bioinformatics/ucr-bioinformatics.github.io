@@ -15,12 +15,12 @@ The bioinformatics core facility provides hands-on training workshops for the gr
 
 | Title | Description | Tentative dates |
 | 1. Programming with R | Rstudio environment, Loops, graphics, Exercises. [Sign up here](https://goo.gl/forms/natP7w8p4KxjC8zB2) | Sept 8, 2017 |
-| 2.  Modern R graphics with ggplot2 | Exercises | Sept 22, 2017 |
-| 3.  Next Generation Sequencing for beginners | Basics of NGS, file formats, common tools, Introduction to Galaxy, Exercises | TBD |
-| 4. Introduction to RNA-Seq | Overview of RNA-Seq, File formats, Methods and Tools for Data Analysis | TBD |
-| 5.  Hands-on RNA-Seq  | RNA-Seq basics review, hands-on training for RNA-Seq (Exercises) | TBD |
-| 6. Introduction to smallRNA-seq and miRNA target prediction | Overview of smallRNA-seq, Introduction to miRNA target prediction | TBD |
-| 5.  Introduction to Variant Analysis | Overview of Variant Analysis, Methods and Tools used for finding variants and Variant Annotation | TBD |
-| 6.  Hands-on Variant Analysis | Review of Variant Analysis tools, hands-on training for Var-Seq (Exercises) | TBD |
+| 2.  Modern R graphics with ggplot2 | Exercises. [Sign up here](https://goo.gl/forms/nD1FYmhS09IA2Y5B3) | Sept 22, 2017 |
+| 3.  Next Generation Sequencing for beginners | Basics of NGS, file formats, common tools, Introduction to Galaxy, Exercises. [Sign up here](https://goo.gl/forms/og0VaTnEnc5w7X9i1) | TBD |
+| 4. Introduction to RNA-Seq | Overview of RNA-Seq, File formats, Methods and Tools for Data Analysis. [Sign up here](https://goo.gl/forms/VD52MvHfgQ9oQKF63) | TBD |
+| 5.  Hands-on RNA-Seq  | RNA-Seq basics review, hands-on training for RNA-Seq (Exercises). [Sign up here](https://goo.gl/forms/wGxdqj5G49cfOK7l1) | TBD |
+| 6. Introduction to smallRNA-seq and miRNA target prediction | Overview of smallRNA-seq, Introduction to miRNA target prediction. [Sign up here](https://goo.gl/forms/5I5ceEH1AMFMAT2c2) | TBD |
+| 5.  Introduction to Variant Analysis | Overview of Variant Analysis, Methods and Tools used for finding variants and Variant Annotation. [Sign up here](https://goo.gl/forms/xAmS90jOmTB3LjSY2) | TBD |
+| 6.  Hands-on Variant Analysis | Review of Variant Analysis tools, hands-on training for Var-Seq (Exercises). [Sign up here](https://goo.gl/forms/5UNKx6IMABrxX3bL2) | TBD |
 
 {% include links.html %}
