@@ -33,6 +33,10 @@ topnav_dropdowns:
           external_url: http://illumina.bioinfo.ucr.edu/ht/documentation/analysis
         - title: HPCC
           external_url: http://hpcc.ucr.edu/index.html
+        - title: Rstudio server at UCR
+          external_url: https://rstudio.bioinfo.ucr.edu/auth-sign-in
+        - title: PacBio SMRT Portal at UCR
+          external_url: http://pacbio-smrt.bioinfo.ucr.edu/
         - title: Software Site Licensing
           external_url: http://sitelicense.ucr.edu/
         - title: FIELDS
