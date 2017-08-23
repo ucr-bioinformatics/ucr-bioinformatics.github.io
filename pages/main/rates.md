@@ -35,4 +35,3 @@ External: Commercial and Foreign Educational Rates | $154.04/hour
 
 For consulting services, please email at <a href="mailto:neerja.katiyar@ucr.edu">neerja.katiyar@ucr.edu</a>.
 
-{% include links.html %}
