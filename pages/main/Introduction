@@ -9,7 +9,7 @@ wide: true
 
 Welcome to the Bioinformatics Facility.
 
-Our facility is part of the Institute for Integrative Genome Biology (IIGB) that operates a modern biotechnology hub consisting of core facilities for genomics, bioinformatics, proteomics, chemical genomics and advanced microscopy. 
+Our facility is part of the Institute for Integrative Genome Biology (IIGB) that operates a modern biotechnology hub consisting of core facilities for genomics, bioinformatics, proteomics and advanced microscopy. 
 
 The bioinformatics facility provides access to the NGS data sequenced at UCR, data analysis and programming expertise. The resources serve scientists at UC Riverside to master the informatics needs of their research in a proficient and cost-effective manner. The following services are offered:
 

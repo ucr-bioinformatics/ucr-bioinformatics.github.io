@@ -18,6 +18,8 @@ Var-Seq| up to 4 samples for $520 notation
 ChIP-Seq| up to 4 samples for $416
 Methyl-Seq| TBD
 
+You can also access to our High Performance Compute Cluster at UCR. Please see [here](http://hpcc.ucr.edu/)
+
 ## Workshop Rates
 
 --------|-----------|-----------
