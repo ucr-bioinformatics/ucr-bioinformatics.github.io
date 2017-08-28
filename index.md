@@ -25,9 +25,7 @@ The bioinformatics facility provides access to the NGS data sequenced at UCR, da
 
 ## Location
 
-1207 E Genomics Building
-
-3401 Watkins Drive
+2202 Keen Hall
 
 University of California
 
