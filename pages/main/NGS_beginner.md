@@ -2,7 +2,7 @@
 title: NGS beginner
 tags:
 keywords: "features, capabilities, scalability, multichannel output, dita, hats, comparison, benefits"
-last_updated: "July 20, 2017"
+last_updated: "August 22, 2017"
 published: true
 sidebar: site_sidebar
 permalink: NGS_beginner.html
@@ -21,4 +21,28 @@ Sequence and base call quality data | FASTQ and FASTA formats
 Sequence alignment data | SAM and BAM formats
 Genome annotations	| GTF, GFF and BED format
 Dense continuous data (e.g. %GC) | WIG and bigWig
+
+## Command-line tools
+[NGSUtils](http://ngsutils.org/) is made up of programs in Python. They are separated into modules based on the type of file that is to be analyzed. There are four modules:
+
+*bamutils (BAM/SAM files)
+*bedutils (BED files)
+*fastqutils (FASTQ files, base- and color-space)
+*gtfutils (GTF gene models)
+
+## Galaxy for NGS Analysis
+[Main Galaxy website](https://galaxyproject.org/)
+
+[Use Galaxy](https://usegalaxy.org/)
+### Tutorials on Galaxy
+[Galaxy tutorials](https://galaxyproject.org/learn/)
+
+## Visualization
+
+IGV (Integrated Genome Viewer)
+
+### Genome Browsers
+UCSC Genome Browser
+
+
 

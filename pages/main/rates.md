@@ -11,12 +11,14 @@ topnav: topnav
 
 ## Data Analysis
 
-Analysis | Rates
--------- | -----
-RNA-Seq| up to 10 samples for $416
-Var-Seq| up to 4 samples for $520 notation
-ChIP-Seq| up to 4 samples for $416
-Methyl-Seq| TBD
+Analysis | Internal Rates (UC) | External Rates (Domestic Educational) | Commercial and Foreign Rates
+-------- | -------------  | ------------------------------------------ | ----------------------------
+RNA-Seq| upto 10 samples for $416 | upto 10 samples for $887.68 | upto 10 samples for $1232.32
+Var-Seq| upto 4 samples for $520 notation | upto 4 samples for $1109.60 | upto 4 samples for $1540.40
+ChIP-Seq| upto 4 samples for $416 | upto 4 samples for $887.68 | upto 4 samples for $1232.32
+Methyl-Seq| TBD | TBD | TBD
+
+You can also access to our High Performance Compute Cluster at UCR. Please see [here](http://hpcc.ucr.edu/)
 
 ## Workshop Rates
 
