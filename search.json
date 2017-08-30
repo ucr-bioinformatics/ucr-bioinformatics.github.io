@@ -10,7 +10,7 @@ search: exclude
 {
 "title": "{{ page.title | escape }}",
 "tags": "{{ page.tags }}",
-"content": "{{ page.content | markdownify | strip_html | strip_newlines }}",
+"content": "{{ page.content | markdownify | strip_html | strip_newlines | normalize_whitespace | smartify }}",
 "keywords": "{{page.keywords}}",
 "url": "{{ page.url | remove: "/"}}",
 "summary": "{{page.summary | strip }}"

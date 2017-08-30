@@ -27,6 +27,8 @@ topnav_dropdowns:
     
     - title: Related websites
       folderitems:
+        - title: Additional Manuals
+          external_url: https://sites.google.com/a/bioinformatics.ucr.edu/bioinformatics-manuals/home
         - title: UCR Sequencing website
           external_url: http://illumina.bioinfo.ucr.edu/ht/
         - title: Data Analysis
