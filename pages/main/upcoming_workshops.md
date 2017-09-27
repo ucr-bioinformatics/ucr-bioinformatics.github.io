@@ -15,5 +15,4 @@ The bioinformatics core facility provides hands-on training workshops for the gr
 
 | Title | Description | Tentative dates |
 
-
 {% include links.html %}
