@@ -14,7 +14,6 @@ The bioinformatics core facility provides hands-on training workshops for the gr
 ### Bioinformatics workshop series (9 AM to Noon, University Laboratory Building 104)
 
 | Title | Description | Tentative dates |
-| 1. Programming with R | Rstudio environment, Loops, graphics, Exercises. [Sign up here](https://goo.gl/forms/natP7w8p4KxjC8zB2) | Sept 8, 2017 |
-| 2.  Modern R graphics with ggplot2 | Exercises. [Sign up here](https://goo.gl/forms/nD1FYmhS09IA2Y5B3) | Sept 22, 2017 |
+
 
 {% include links.html %}
