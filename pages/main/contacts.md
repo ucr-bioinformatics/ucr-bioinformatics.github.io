@@ -20,3 +20,6 @@ toc: false
 - [Thomas Girke](mailto:thomas.girke@ucr.edu), Director, Bioinformatics
 - [Rebecca Sun](mailto:fireflysrb@gmail.com), Bioinformatics Analyst
 - [Tyler Landrith](mailto:tbackman@lbl.gov), Bioinformatics Analyst
+
+## Slack Channel
+The UCR Bioinformatics Slack channel can be found here: [https://ucr-bioinformatics.slack.com](https://ucr-bioinformatics.slack.com)
